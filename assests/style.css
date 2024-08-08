@@ -1,0 +1,38 @@
+  /* default configuration */
+  * {
+      padding: 0;
+      border: 0;
+      margin: 0;
+  }
+
+  html {
+      font-size: 10px;
+  }
+
+  body {
+      width: 100vw;
+      height: 100vh;
+      overflow: none;
+  }
+
+  form {
+      width: 50%;
+      margin: auto;
+      text-align: center;
+  }
+
+  h1 {
+      font-size: 3rem;
+      text-decoration: underline;
+      padding: 2rem;
+      color: rgba(0, 140, 255, 0.842);
+  }
+
+  button {
+      width: 12rem;
+      height: 2.5rem;
+      border-color: gray;
+      border-width: 0.2rem;
+      border-style: solid;
+      border-radius: 0.5rem;
+  }
