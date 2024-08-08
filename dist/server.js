@@ -7,7 +7,7 @@ const express_1 = __importDefault(require("express"));
 const chalk_1 = __importDefault(require("chalk"));
 const upload_1 = require("./upload");
 const app = (0, express_1.default)();
-const port = 3002;
+const port = 3000;
 app.post("/uploads", upload_1.uploads.single('file'), (req, res) => {
     res.status(200).json({ msg: "file successfully uploaded" });
 });

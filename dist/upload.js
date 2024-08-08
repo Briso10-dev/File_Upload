@@ -7,7 +7,7 @@ exports.uploads = void 0;
 const multer_1 = __importDefault(require("multer"));
 const storage = multer_1.default.diskStorage({
     destination(req, file, callback) {
-        callback(null, 'uploads/');
+        callback(null, 'assests/uploads/');
     },
     filename(req, file, callback) {
         callback(null, file.originalname);

@@ -5,7 +5,7 @@ import { uploads } from './upload'
 
 const app = express()
 
-const port = 3002
+const port = 3000
 app.post("/uploads", uploads.single('file'),(req:Request,res:Response)=>{
     res.status(200).json({msg:"file successfully uploaded"})
 
