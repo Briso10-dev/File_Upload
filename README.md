@@ -25,5 +25,5 @@ Install the neccessary dependency
 ```    
 ## Authors
 
-- [@Briso10-dev](https://github.com/Briso10-dev)
+- [Seraphin Brice Kouam](https://github.com/Briso10-dev)
 
