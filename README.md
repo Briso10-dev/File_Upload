@@ -59,7 +59,7 @@ docker run -p 3002:3002 file-upload-app
 ## 👨‍💻 Author
 
 **Seraphin Brice Kouam**
-- GitHub: [@Briso10-dev](https://github.com/Briso10-dev)
+- GitHub: [@Briso10.dev](https://github.com/Briso10-dev)
 
 ## 📄 License
 
